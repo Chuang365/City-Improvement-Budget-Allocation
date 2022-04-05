@@ -9,4 +9,3 @@
     3. Establish a optimziation solution using Python to solve such a model
     4. Shareing ideas, new thoughts and questions.
   
-    Further information needed please contact chuang365@wisc.edu
